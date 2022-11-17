@@ -19,3 +19,7 @@ mapping
 using groupby
 
 I have done my best to make note of what I did througout my code. 
+
+2 Conclusions from the PyCitySchool Data
+1. From the last Data Frame we can conclude that Charter Schools outperform District schools in both Reading and Math. 
+2. From this data it looks like we can conclude that the schools that spend less on average per student actually have better scores and reading than schools that spend more on average per student. 
